@@ -1,22 +1,24 @@
-# Welcome to your Lovable project
+# Precious Okereke - Business Consulting Website
 
-## Project info
+Official website for Precious Okereke, Business Consultant, Real Estate Advisor, and Financial Analyst.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## About
 
-## How can I edit this code?
+This is the professional website showcasing services and expertise in:
+- Real Estate Consulting
+- Financial Analysis
+- Business Management & Development
+- SME Training & Coaching
+- Portfolio Diversification
 
-There are several ways of editing your application.
+## Project Structure
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Built with modern web technologies:
+- **React** with TypeScript
+- **Vite** for fast development
+- **Tailwind CSS** for styling
+- **Shadcn/UI** for components
+- **Framer Motion** concepts for animations
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -62,12 +64,34 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+### Deploy to Vercel
+1. Push your code to GitHub
+2. Visit [Vercel](https://vercel.com)
+3. Import your GitHub repository
+4. Vercel will auto-detect Vite and configure build settings
+5. Click "Deploy"
 
-## Can I connect a custom domain to my Lovable project?
+### Deploy to Netlify
+1. Push your code to GitHub
+2. Visit [Netlify](https://netlify.com)
+3. Click "Add new site" > "Import an existing project"
+4. Connect your GitHub repository
+5. Build settings:
+   - Build command: `npm run build`
+   - Publish directory: `dist`
+6. Click "Deploy site"
 
-Yes, you can!
+## Custom Domain Setup
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+After deploying, you can connect a custom domain:
+- **Vercel**: Project Settings > Domains
+- **Netlify**: Site Settings > Domain Management
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Configure your domain's DNS to point to your hosting provider's nameservers.
+
+## Contact
+
+For business inquiries:
+- **YouTube**: [@CoachPreciousOkereke](https://www.youtube.com/@CoachPreciousOkereke)
+- **Instagram**: [@coverealestaltd](https://instagram.com/coverealestaltd)
+- **Website**: https://preciousokereke.com
