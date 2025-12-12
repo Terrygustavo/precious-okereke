@@ -17,7 +17,7 @@ export const HeroSection = () => {
             </p>
             <h1 className="heading-xl mb-6 opacity-0 animate-fade-up stagger-1">
               Precious{" "}
-              <span className="text-gradient-primary">Okoreke</span>
+              <span className="text-gradient-primary">Okereke</span>
             </h1>
             <p className="body-lg max-w-lg mb-8 opacity-0 animate-fade-up stagger-2">
               Real Estate Consultant | Financial Analyst | Business Manager | 
@@ -45,7 +45,7 @@ export const HeroSection = () => {
                 Connect with me
               </p>
               <div className="flex flex-wrap gap-8 items-center">
-                <a href="https://www.youtube.com/@CoachPreciousOkoreke" target="_blank" rel="noopener noreferrer" className="text-muted-foreground/60 font-medium text-sm hover:text-primary transition-colors">
+                <a href="https://www.youtube.com/@CoachPreciousOkereke" target="_blank" rel="noopener noreferrer" className="text-muted-foreground/60 font-medium text-sm hover:text-primary transition-colors">
                   YouTube
                 </a>
                 <a href="https://instagram.com/coverealestaltd" target="_blank" rel="noopener noreferrer" className="text-muted-foreground/60 font-medium text-sm hover:text-primary transition-colors">
@@ -64,7 +64,7 @@ export const HeroSection = () => {
               <div className="absolute inset-0 bg-gradient-to-br from-primary/20 via-transparent to-transparent z-10" />
               <img
                 src="/images/hero.jpg"
-                alt="Precious Okoreke - Business Consultant"
+                alt="Precious Okereke - Business Consultant"
                 className="w-full h-full object-cover object-top"
               />
               

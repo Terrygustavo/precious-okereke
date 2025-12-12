@@ -22,7 +22,7 @@ export const Navbar = () => {
               <span className="text-primary-foreground font-bold text-sm">PO</span>
             </div>
             <span className="text-foreground font-semibold text-lg hidden sm:block">
-              Precious Okoreke
+              Precious Okereke
             </span>
           </a>
 

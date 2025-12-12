@@ -84,7 +84,7 @@ export const TestimonialsSection = () => {
         <div className="mt-16 flex flex-col sm:flex-row items-center justify-between gap-6 p-8 bg-card border border-border rounded-2xl scroll-animate animate-blur-in stagger-5">
           <div>
             <h3 className="heading-sm mb-2">Ready to transform your business?</h3>
-            <p className="body-sm">Join successful entrepreneurs and investors who trust Precious Okoreke.</p>
+            <p className="body-sm">Join successful entrepreneurs and investors who trust Precious Okereke.</p>
           </div>
           <a
             href="#contact"

@@ -34,7 +34,7 @@ export const Footer = () => {
                 <span className="text-primary-foreground font-bold">PO</span>
               </div>
               <span className="text-foreground font-semibold text-xl">
-                Precious Okoreke
+                Precious Okereke
               </span>
             </a>
             <p className="body-md max-w-sm mb-6">
@@ -107,7 +107,7 @@ export const Footer = () => {
         {/* Bottom Bar */}
         <div className="mt-16 pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Precious Okoreke Consulting. All rights reserved.
+            © {new Date().getFullYear()} Precious Okereke Consulting. All rights reserved.
           </p>
           <div className="flex gap-6">
             <a href="#" className="text-sm text-muted-foreground hover:text-foreground transition-colors">

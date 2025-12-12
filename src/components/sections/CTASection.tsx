@@ -20,7 +20,7 @@ export const CTASection = () => {
             your business?
           </h2>
           <p className="body-lg mb-8 scroll-animate animate-blur-in stagger-1">
-            Book a consultation with Precious Okoreke to explore how strategic 
+            Book a consultation with Precious Okereke to explore how strategic 
             consulting can accelerate your growth journey—whether in real estate, 
             business development, or portfolio management.
           </p>

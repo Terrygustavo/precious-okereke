@@ -26,7 +26,7 @@ export const ValidationSection = () => {
           </h2>
           <p className="body-lg mb-8 scroll-animate animate-blur-in stagger-1">
             With years of experience in real estate, financial analysis, and business 
-            development, Precious Okoreke has helped countless clients achieve their goals.
+            development, Precious Okereke has helped countless clients achieve their goals.
           </p>
           <Button variant="heroOutline" size="lg" className="scroll-animate animate-blur-in stagger-2">
             Watch on YouTube
@@ -51,7 +51,7 @@ export const ValidationSection = () => {
         <div className="text-center">
           <p className="label-text mb-4 scroll-animate animate-blur-in stagger-7">Ready to get started?</p>
           <p className="body-md mb-6 scroll-animate animate-blur-in stagger-8">
-            Join the community of changemakers at @CoachPreciousOkoreke on YouTube.
+            Join the community of changemakers at @CoachPreciousOkereke on YouTube.
           </p>
         </div>
       </div>
